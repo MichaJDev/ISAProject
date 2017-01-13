@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 27b3de8f234a0f348be093f05981a098
+timeCreated: 1478599225
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Punching_Anim_Spritesheet4x4_0
+    21300002: Punching_Anim_Spritesheet4x4_1
+    21300004: Punching_Anim_Spritesheet4x4_2
+    21300006: Punching_Anim_Spritesheet4x4_3
+    21300008: Punching_Anim_Spritesheet4x4_4
+    21300010: Punching_Anim_Spritesheet4x4_5
+    21300012: Punching_Anim_Spritesheet4x4_6
+    21300014: Punching_Anim_Spritesheet4x4_7
+    21300016: Punching_Anim_Spritesheet4x4_8
+    21300018: Punching_Anim_Spritesheet4x4_9
+    21300020: Punching_Anim_Spritesheet4x4_10
+    21300022: Punching_Anim_Spritesheet4x4_11
+    21300024: Punching_Anim_Spritesheet4x4_12
+    21300026: Punching_Anim_Spritesheet4x4_13
+    21300028: Punching_Anim_Spritesheet4x4_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Punching_Anim_Spritesheet4x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 97}
+        - {x: 76, y: 97}
+        - {x: 76, y: 255}
+        - {x: 67, y: 391}
+        - {x: -28, y: 391}
+        - {x: -105, y: 366}
+        - {x: -124, y: 154}
+        - {x: -124, y: 132}
+        - {x: -123, y: 127}
+        - {x: -97, y: 108}
+        - {x: -79, y: 97}
+        - {x: -57, y: 97}
+        - {x: -46, y: 100}
+        - {x: -49, y: 108}
+        - {x: -52, y: 111}
+        - {x: -3, y: 99}
+    - name: Punching_Anim_Spritesheet4x4_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 97}
+        - {x: 76, y: 97}
+        - {x: 76, y: 106}
+        - {x: 48, y: 178}
+        - {x: 76, y: 300}
+        - {x: 76, y: 368}
+        - {x: 65, y: 390}
+        - {x: -37, y: 390}
+        - {x: -93, y: 377}
+        - {x: -124, y: 190}
+        - {x: -124, y: 113}
+        - {x: -83, y: 97}
+        - {x: -57, y: 97}
+        - {x: -46, y: 100}
+        - {x: -49, y: 108}
+        - {x: -52, y: 111}
+        - {x: -3, y: 99}
+    - name: Punching_Anim_Spritesheet4x4_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 97}
+        - {x: 76, y: 98}
+        - {x: 76, y: 124}
+        - {x: 54, y: 205}
+        - {x: 76, y: 335}
+        - {x: 76, y: 387}
+        - {x: 73, y: 389}
+        - {x: -8, y: 389}
+        - {x: -94, y: 372}
+        - {x: -103, y: 202}
+        - {x: -124, y: 143}
+        - {x: -124, y: 117}
+        - {x: -81, y: 97}
+        - {x: -57, y: 97}
+        - {x: -46, y: 100}
+        - {x: -49, y: 108}
+        - {x: -52, y: 111}
+        - {x: -12, y: 97}
+    - name: Punching_Anim_Spritesheet4x4_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 153}
+        - {x: -28, y: 125}
+        - {x: -28, y: 120}
+        - {x: -27, y: 117}
+        - {x: 34, y: 119}
+        - {x: 56, y: 122}
+        - {x: 71, y: 207}
+        - {x: 71, y: 352}
+        - {x: 63, y: 353}
+        - {x: 54, y: 353}
+        - {x: 56, y: 353}
+        - {x: 60, y: 354}
+        - {x: 71, y: 370}
+        - {x: 71, y: 383}
+        - {x: 66, y: 387}
+        - {x: -50, y: 387}
+        - {x: -84, y: 360}
+        - {x: -84, y: 91}
+        - {x: -10, y: 91}
+        - {x: -13, y: 99}
+        - {x: -30, y: 120}
+        - {x: -28, y: 126}
+      - - {x: -71, y: 260}
+        - {x: -68, y: 261}
+        - {x: -68, y: 264}
+        - {x: -71, y: 265}
+        - {x: -73, y: 263}
+    - name: Punching_Anim_Spritesheet4x4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 153}
+        - {x: -28, y: 125}
+        - {x: -28, y: 120}
+        - {x: -27, y: 117}
+        - {x: 52, y: 113}
+        - {x: 75, y: 243}
+        - {x: 75, y: 386}
+        - {x: -36, y: 386}
+        - {x: -82, y: 379}
+        - {x: -84, y: 360}
+        - {x: -84, y: 91}
+        - {x: -10, y: 91}
+        - {x: -13, y: 99}
+        - {x: -30, y: 120}
+        - {x: -28, y: 126}
+    - name: Punching_Anim_Spritesheet4x4_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 153}
+        - {x: -28, y: 125}
+        - {x: -28, y: 120}
+        - {x: -27, y: 117}
+        - {x: 36, y: 115}
+        - {x: 60, y: 168}
+        - {x: 79, y: 286}
+        - {x: 79, y: 343}
+        - {x: 76, y: 350}
+        - {x: 63, y: 350}
+        - {x: 65, y: 350}
+        - {x: 69, y: 351}
+        - {x: 79, y: 357}
+        - {x: 79, y: 384}
+        - {x: -56, y: 384}
+        - {x: -72, y: 381}
+        - {x: -84, y: 307}
+        - {x: -84, y: 91}
+        - {x: -10, y: 91}
+        - {x: -13, y: 99}
+        - {x: -30, y: 120}
+        - {x: -28, y: 126}
+      - - {x: -64, y: 261}
+        - {x: -61, y: 262}
+        - {x: -61, y: 265}
+        - {x: -64, y: 266}
+        - {x: -66, y: 264}
+    - name: Punching_Anim_Spritesheet4x4_6
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 349}
+        - {x: 71, y: 349}
+        - {x: 74, y: 351}
+        - {x: 84, y: 363}
+        - {x: 84, y: 383}
+        - {x: -20, y: 383}
+        - {x: -68, y: 371}
+        - {x: -73, y: 321}
+        - {x: -73, y: 153}
+        - {x: -54, y: 91}
+        - {x: 54, y: 91}
+        - {x: 84, y: 225}
+        - {x: 84, y: 356}
+        - {x: 76, y: 349}
+      - - {x: -60, y: 261}
+        - {x: -57, y: 262}
+        - {x: -57, y: 265}
+        - {x: -60, y: 266}
+        - {x: -62, y: 264}
+    - name: Punching_Anim_Spritesheet4x4_7
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 347}
+        - {x: 74, y: 347}
+        - {x: 78, y: 348}
+        - {x: 89, y: 364}
+        - {x: 89, y: 381}
+        - {x: -17, y: 381}
+        - {x: -62, y: 369}
+        - {x: -71, y: 292}
+        - {x: -71, y: 169}
+        - {x: -51, y: 104}
+        - {x: -36, y: 98}
+        - {x: 8, y: 90}
+        - {x: 63, y: 90}
+        - {x: 89, y: 202}
+        - {x: 89, y: 355}
+        - {x: 81, y: 347}
+    - name: Punching_Anim_Spritesheet4x4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 381}
+        - {x: -59, y: 360}
+        - {x: -69, y: 247}
+        - {x: -69, y: 201}
+        - {x: -44, y: 161}
+        - {x: -51, y: 104}
+        - {x: -35, y: 98}
+        - {x: 17, y: 89}
+        - {x: 55, y: 89}
+        - {x: 53, y: 141}
+        - {x: 91, y: 289}
+        - {x: 91, y: 381}
+    - name: Punching_Anim_Spritesheet4x4_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 282}
+        - {x: 93, y: 380}
+        - {x: 3, y: 380}
+        - {x: -61, y: 365}
+        - {x: -67, y: 277}
+        - {x: -67, y: 197}
+        - {x: -51, y: 160}
+        - {x: -52, y: 99}
+        - {x: 15, y: 88}
+        - {x: 45, y: 88}
+        - {x: 45, y: 132}
+        - {x: 69, y: 195}
+    - name: Punching_Anim_Spritesheet4x4_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 379}
+        - {x: -1, y: 379}
+        - {x: -51, y: 369}
+        - {x: -61, y: 323}
+        - {x: -65, y: 284}
+        - {x: -65, y: 200}
+        - {x: -55, y: 163}
+        - {x: -52, y: 97}
+        - {x: 2, y: 87}
+        - {x: 47, y: 87}
+        - {x: 49, y: 116}
+        - {x: 78, y: 193}
+        - {x: 95, y: 305}
+    - name: Punching_Anim_Spritesheet4x4_11
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 346}
+        - {x: 85, y: 344}
+        - {x: 86, y: 347}
+        - {x: 97, y: 354}
+        - {x: 97, y: 378}
+        - {x: -8, y: 378}
+        - {x: -54, y: 372}
+        - {x: -63, y: 261}
+        - {x: -63, y: 170}
+        - {x: -54, y: 98}
+        - {x: -19, y: 86}
+        - {x: 62, y: 86}
+        - {x: 81, y: 136}
+        - {x: 97, y: 309}
+        - {x: 97, y: 351}
+    - name: Punching_Anim_Spritesheet4x4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 378}
+        - {x: 11, y: 378}
+        - {x: -51, y: 371}
+        - {x: -59, y: 259}
+        - {x: -61, y: 248}
+        - {x: -61, y: 160}
+        - {x: -55, y: 124}
+        - {x: -49, y: 101}
+        - {x: 24, y: 85}
+        - {x: 45, y: 85}
+        - {x: 59, y: 147}
+        - {x: 93, y: 267}
+        - {x: 100, y: 319}
+    - name: Punching_Anim_Spritesheet4x4_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 102}
+        - {x: 102, y: 377}
+        - {x: -15, y: 377}
+        - {x: -50, y: 373}
+        - {x: -70, y: 206}
+        - {x: -104, y: 160}
+        - {x: -104, y: 133}
+        - {x: -82, y: 105}
+        - {x: -70, y: 102}
+        - {x: -37, y: 102}
+        - {x: -26, y: 105}
+        - {x: -29, y: 113}
+        - {x: -32, y: 116}
+        - {x: 27, y: 102}
+      - - {x: -46, y: 258}
+        - {x: -43, y: 259}
+        - {x: -43, y: 262}
+        - {x: -46, y: 263}
+        - {x: -48, y: 261}
+    - name: Punching_Anim_Spritesheet4x4_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 102}
+        - {x: 104, y: 102}
+        - {x: 104, y: 376}
+        - {x: -60, y: 376}
+        - {x: -104, y: 188}
+        - {x: -104, y: 133}
+        - {x: -82, y: 105}
+        - {x: -70, y: 102}
+        - {x: -37, y: 102}
+        - {x: -26, y: 105}
+        - {x: -29, y: 113}
+        - {x: -32, y: 116}
+        - {x: 17, y: 104}
+      - - {x: -44, y: 257}
+        - {x: -41, y: 258}
+        - {x: -41, y: 261}
+        - {x: -44, y: 262}
+        - {x: -46, y: 260}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

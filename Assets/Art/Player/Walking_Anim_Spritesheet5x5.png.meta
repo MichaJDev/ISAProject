@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 13afc3c497a1a724d9b43331d60a16d5
+timeCreated: 1478599099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walking_Anim_Spritesheet5x5_0
+    21300002: Walking_Anim_Spritesheet5x5_1
+    21300004: Walking_Anim_Spritesheet5x5_2
+    21300006: Walking_Anim_Spritesheet5x5_3
+    21300008: Walking_Anim_Spritesheet5x5_4
+    21300010: Walking_Anim_Spritesheet5x5_5
+    21300012: Walking_Anim_Spritesheet5x5_6
+    21300014: Walking_Anim_Spritesheet5x5_7
+    21300016: Walking_Anim_Spritesheet5x5_8
+    21300018: Walking_Anim_Spritesheet5x5_9
+    21300020: Walking_Anim_Spritesheet5x5_10
+    21300022: Walking_Anim_Spritesheet5x5_11
+    21300024: Walking_Anim_Spritesheet5x5_12
+    21300026: Walking_Anim_Spritesheet5x5_13
+    21300028: Walking_Anim_Spritesheet5x5_14
+    21300030: Walking_Anim_Spritesheet5x5_15
+    21300032: Walking_Anim_Spritesheet5x5_16
+    21300034: Walking_Anim_Spritesheet5x5_17
+    21300036: Walking_Anim_Spritesheet5x5_18
+    21300038: Walking_Anim_Spritesheet5x5_19
+    21300040: Walking_Anim_Spritesheet5x5_20
+    21300042: Walking_Anim_Spritesheet5x5_21
+    21300044: Walking_Anim_Spritesheet5x5_22
+    21300046: Walking_Anim_Spritesheet5x5_23
+    21300048: Walking_Anim_Spritesheet5x5_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walking_Anim_Spritesheet5x5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 322.20007}
+        - {x: -75, y: 308.20007}
+        - {x: -102, y: 153.20007}
+        - {x: -102, y: 112.20007}
+        - {x: -96, y: 100.20007}
+        - {x: -88, y: 87.20007}
+        - {x: 58, y: 87.20007}
+        - {x: 58, y: 322.20007}
+    - name: Walking_Anim_Spritesheet5x5_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.100006, y: 230.20007}
+        - {x: 59.100006, y: 322.20007}
+        - {x: -37.899994, y: 322.20007}
+        - {x: -72.899994, y: 303.20007}
+        - {x: -86.899994, y: 202.20007}
+        - {x: -101.899994, y: 159.20007}
+        - {x: -101.899994, y: 99.20007}
+        - {x: -78.899994, y: 87.20007}
+        - {x: 59.100006, y: 87.20007}
+        - {x: 59.100006, y: 134.20007}
+        - {x: 45.100006, y: 178.20007}
+    - name: Walking_Anim_Spritesheet5x5_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.200012, y: 87.20007}
+        - {x: 58.200012, y: 322.20007}
+        - {x: -76.79999, y: 322.20007}
+        - {x: -101.79999, y: 208.20007}
+        - {x: -101.79999, y: 100.20007}
+        - {x: -58.799988, y: 87.20007}
+        - {x: -53.799988, y: 87.20007}
+        - {x: -42.799988, y: 88.20007}
+        - {x: -39.799988, y: 95.20007}
+        - {x: -4.799988, y: 90.20007}
+        - {x: 10.200012, y: 87.20007}
+    - name: Walking_Anim_Spritesheet5x5_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.30005, y: 205.20007}
+        - {x: 59.30005, y: 322.20007}
+        - {x: -7.699951, y: 322.20007}
+        - {x: -74.69995, y: 308.20007}
+        - {x: -101.69995, y: 141.20007}
+        - {x: -101.69995, y: 107.20007}
+        - {x: -84.69995, y: 87.20007}
+        - {x: 59.30005, y: 87.20007}
+        - {x: 59.30005, y: 96.20007}
+        - {x: 52.30005, y: 101.20007}
+    - name: Walking_Anim_Spritesheet5x5_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.400024, y: 322.20007}
+        - {x: 1.4000244, y: 322.20007}
+        - {x: -68.599976, y: 311.20007}
+        - {x: -77.599976, y: 242.20007}
+        - {x: -77.599976, y: 106.20007}
+        - {x: -70.599976, y: 89.20007}
+        - {x: 71.400024, y: 89.20007}
+        - {x: 71.400024, y: 108.20007}
+        - {x: 62.400024, y: 279.20007}
+    - name: Walking_Anim_Spritesheet5x5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 323.1001}
+        - {x: -78, y: 293.1001}
+        - {x: -78, y: 89.1001}
+        - {x: 70, y: 89.1001}
+        - {x: 71, y: 91.1001}
+        - {x: 71, y: 141.1001}
+        - {x: 63, y: 323.1001}
+    - name: Walking_Anim_Spritesheet5x5_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.899994, y: 323.1001}
+        - {x: -76.899994, y: 312.1001}
+        - {x: -77.899994, y: 297.1001}
+        - {x: -77.899994, y: 89.1001}
+        - {x: 71.100006, y: 89.1001}
+        - {x: 71.100006, y: 112.1001}
+        - {x: 57.100006, y: 175.1001}
+        - {x: 64.100006, y: 323.1001}
+    - name: Walking_Anim_Spritesheet5x5_7
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.79999, y: 249.1001}
+        - {x: -77.79999, y: 101.1001}
+        - {x: -71.79999, y: 89.1001}
+        - {x: -60.799988, y: 89.1001}
+        - {x: -10.799988, y: 114.1001}
+        - {x: -12.799988, y: 130.1001}
+        - {x: 1.2000122, y: 89.1001}
+        - {x: 71.20001, y: 89.1001}
+        - {x: 71.20001, y: 215.1001}
+        - {x: 66.20001, y: 323.1001}
+        - {x: -16.799988, y: 323.1001}
+        - {x: -71.79999, y: 316.1001}
+    - name: Walking_Anim_Spritesheet5x5_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.699951, y: 323.1001}
+        - {x: -65.69995, y: 311.1001}
+        - {x: -69.69995, y: 279.1001}
+        - {x: -69.69995, y: 159.1001}
+        - {x: -45.69995, y: 89.1001}
+        - {x: 41.30005, y: 89.1001}
+        - {x: 43.30005, y: 96.1001}
+        - {x: 56.30005, y: 204.1001}
+        - {x: 56.30005, y: 323.1001}
+    - name: Walking_Anim_Spritesheet5x5_9
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.4000244, y: 323.1001}
+        - {x: -70.599976, y: 307.1001}
+        - {x: -71.599976, y: 291.1001}
+        - {x: -71.599976, y: 159.1001}
+        - {x: -46.599976, y: 89.1001}
+        - {x: 47.400024, y: 89.1001}
+        - {x: 42.400024, y: 204.1001}
+        - {x: 56.400024, y: 253.1001}
+        - {x: 56.400024, y: 323.1001}
+    - name: Walking_Anim_Spritesheet5x5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 158}
+        - {x: 56, y: 240}
+        - {x: 56, y: 323}
+        - {x: 10, y: 323}
+        - {x: -65, y: 310}
+        - {x: -73, y: 267}
+        - {x: -73, y: 170}
+        - {x: -56, y: 124}
+        - {x: -35, y: 89}
+        - {x: -25, y: 88}
+        - {x: 40, y: 88}
+        - {x: 44, y: 95}
+        - {x: 24, y: 108}
+        - {x: 36, y: 125}
+    - name: Walking_Anim_Spritesheet5x5_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.899994, y: 323}
+        - {x: -72.899994, y: 141}
+        - {x: -35.899994, y: 88}
+        - {x: 43.100006, y: 88}
+        - {x: 45.100006, y: 95}
+        - {x: 56.100006, y: 194}
+        - {x: 56.100006, y: 323}
+    - name: Walking_Anim_Spritesheet5x5_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.799988, y: 307}
+        - {x: -76.79999, y: 227}
+        - {x: -76.79999, y: 89}
+        - {x: 6.200012, y: 89}
+        - {x: 56.200012, y: 127}
+        - {x: 56.200012, y: 323}
+        - {x: -1.7999878, y: 323}
+        - {x: -4.799988, y: 322}
+    - name: Walking_Anim_Spritesheet5x5_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.300049, y: 114}
+        - {x: 50.30005, y: 136}
+        - {x: 56.30005, y: 178}
+        - {x: 56.30005, y: 323}
+        - {x: -43.69995, y: 323}
+        - {x: -65.69995, y: 319}
+        - {x: -75.69995, y: 243}
+        - {x: -75.69995, y: 89}
+        - {x: -21.699951, y: 89}
+        - {x: -19.699951, y: 91}
+        - {x: -18.699951, y: 96}
+        - {x: 19.300049, y: 111}
+    - name: Walking_Anim_Spritesheet5x5_14
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.599976, y: 323}
+        - {x: -71.599976, y: 311}
+        - {x: -77.599976, y: 250}
+        - {x: -77.599976, y: 89}
+        - {x: -3.5999756, y: 89}
+        - {x: 35.400024, y: 114}
+        - {x: 56.400024, y: 129}
+        - {x: 56.400024, y: 323}
+    - name: Walking_Anim_Spritesheet5x5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 322.90002}
+        - {x: -3, y: 318.90002}
+        - {x: -63, y: 307.90002}
+        - {x: -82, y: 257.90002}
+        - {x: -82, y: 88.900024}
+        - {x: -6, y: 88.900024}
+        - {x: 56, y: 109.900024}
+        - {x: 56, y: 320.90002}
+        - {x: 55, y: 322.90002}
+    - name: Walking_Anim_Spritesheet5x5_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.899994, y: 322.90002}
+        - {x: -64.899994, y: 308.90002}
+        - {x: -66.899994, y: 263.90002}
+        - {x: -60.899994, y: 255.90002}
+        - {x: -83.899994, y: 247.90002}
+        - {x: -84.899994, y: 238.90002}
+        - {x: -84.899994, y: 88.900024}
+        - {x: 71.100006, y: 88.900024}
+        - {x: 71.100006, y: 258.90002}
+        - {x: 70.100006, y: 283.90002}
+        - {x: 54.100006, y: 322.90002}
+    - name: Walking_Anim_Spritesheet5x5_17
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.200012, y: 322.90002}
+        - {x: -0.7999878, y: 322.90002}
+        - {x: -30.799988, y: 316.90002}
+        - {x: -72.79999, y: 299.90002}
+        - {x: -89.79999, y: 197.90002}
+        - {x: -89.79999, y: 134.90002}
+        - {x: -70.79999, y: 88.900024}
+        - {x: 71.20001, y: 88.900024}
+        - {x: 71.20001, y: 166.90002}
+        - {x: 65.20001, y: 311.90002}
+    - name: Walking_Anim_Spritesheet5x5_18
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.30005, y: 139.90002}
+        - {x: 72.30005, y: 139.90002}
+        - {x: 72.30005, y: 322.90002}
+        - {x: -14.699951, y: 322.90002}
+        - {x: -73.69995, y: 306.90002}
+        - {x: -92.69995, y: 254.90002}
+        - {x: -92.69995, y: 115.900024}
+        - {x: -82.69995, y: 88.900024}
+        - {x: 72.30005, y: 88.900024}
+        - {x: 72.30005, y: 99.900024}
+        - {x: 50.30005, y: 136.90002}
+    - name: Walking_Anim_Spritesheet5x5_19
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.4000244, y: 322.90002}
+        - {x: -62.599976, y: 309.90002}
+        - {x: -88.599976, y: 192.90002}
+        - {x: -88.599976, y: 127.900024}
+        - {x: -77.599976, y: 88.900024}
+        - {x: -46.599976, y: 88.900024}
+        - {x: -9.599976, y: 103.900024}
+        - {x: 0.4000244, y: 88.900024}
+        - {x: 71.400024, y: 88.900024}
+        - {x: 71.400024, y: 322.90002}
+    - name: Walking_Anim_Spritesheet5x5_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 321.8}
+        - {x: -66, y: 298.8}
+        - {x: -84, y: 178.8}
+        - {x: -84, y: 139.8}
+        - {x: -37, y: 87.8}
+        - {x: 41, y: 87.8}
+        - {x: 44, y: 95.8}
+        - {x: 58, y: 122.8}
+        - {x: 58, y: 321.8}
+    - name: Walking_Anim_Spritesheet5x5_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.899994, y: 321.8}
+        - {x: -62.899994, y: 308.8}
+        - {x: -79.899994, y: 241.8}
+        - {x: -79.899994, y: 142.8}
+        - {x: -56.899994, y: 112.8}
+        - {x: -43.899994, y: 131.8}
+        - {x: -35.899994, y: 136.8}
+        - {x: -36.899994, y: 137.8}
+        - {x: -34.899994, y: 91.8}
+        - {x: -32.899994, y: 87.8}
+        - {x: 56.100006, y: 87.8}
+        - {x: 56.100006, y: 321.8}
+    - name: Walking_Anim_Spritesheet5x5_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.799988, y: 320.8}
+        - {x: -67.79999, y: 301.8}
+        - {x: -75.79999, y: 207.8}
+        - {x: -75.79999, y: 135.8}
+        - {x: -37.799988, y: 87.8}
+        - {x: 41.200012, y: 87.8}
+        - {x: 55.200012, y: 143.8}
+        - {x: 55.200012, y: 320.8}
+    - name: Walking_Anim_Spritesheet5x5_23
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.30005, y: 320.8}
+        - {x: -41.69995, y: 320.8}
+        - {x: -68.69995, y: 312.8}
+        - {x: -73.69995, y: 299.8}
+        - {x: -73.69995, y: 123.8}
+        - {x: -56.69995, y: 87.8}
+        - {x: 41.30005, y: 87.8}
+        - {x: 43.30005, y: 94.8}
+        - {x: 55.30005, y: 141.8}
+        - {x: 56.30005, y: 151.8}
+      - - {x: -63.69995, y: 244.8}
+        - {x: -60.69995, y: 245.8}
+        - {x: -60.69995, y: 248.8}
+        - {x: -63.69995, y: 249.8}
+        - {x: -65.69995, y: 247.8}
+    - name: Walking_Anim_Spritesheet5x5_24
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.599976, y: 319.8}
+        - {x: -67.599976, y: 316.8}
+        - {x: -67.599976, y: 87.8}
+        - {x: 61.400024, y: 87.8}
+        - {x: 64.400024, y: 89.8}
+        - {x: 64.400024, y: 96.8}
+        - {x: 63.400024, y: 98.8}
+        - {x: 64.400024, y: 130.8}
+        - {x: 64.400024, y: 319.8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
